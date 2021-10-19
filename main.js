@@ -97,5 +97,6 @@ console.log(fullName.length);
 // c1 truyền bt
 console.log('Toi la: '+ fullName);
 console.log('Toi la: '+ firstName);
+console.log(firstName.length);
 // template string ES6
 console.log(`Toi la: ${fullName} `); 
