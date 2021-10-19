@@ -89,11 +89,13 @@
 //////////// toán tử
 //=== !== so sánh kiểu dữ liệu và giá trị 
 //var fullName = new String('Long');=> khởi tạo đối tượng 
-var fullName = 'Gia Long'; //=> kiểu dữ liệu String
+var fullName = 'Gia Long'; 
+var firstName = "Gia";//=> kiểu dữ liệu String
 console.log(typeof fullName);
 alert(fullName);
 console.log(fullName.length);
 // c1 truyền bt
 console.log('Toi la: '+ fullName);
+console.log('Toi la: '+ firstName);
 // template string ES6
 console.log(`Toi la: ${fullName} `); 
