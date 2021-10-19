@@ -90,7 +90,7 @@
 //=== !== so sánh kiểu dữ liệu và giá trị 
 //var fullName = new String('Long');=> khởi tạo đối tượng 
 var fullName = 'Gia Long'; 
-var firstName = "Gia Long xau giai";//=> kiểu dữ liệu String
+var firstName = "Gia Long đep giai";//=> kiểu dữ liệu String
 console.log(typeof fullName);
 alert(fullName);
 console.log(fullName.length);
