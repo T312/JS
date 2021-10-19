@@ -98,4 +98,5 @@ console.log(fullName.length);
 console.log('Toi la: '+ fullName);
 console.log('Toi la: '+ firstName);
 // template string ES6
+console.log('Long');
 console.log(`Toi la: ${fullName} `); 
